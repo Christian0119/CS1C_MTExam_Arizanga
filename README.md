@@ -1,1 +1,1 @@
-# CS2A_MTExam_Arizanga
+# CS1C_MTExam_Arizanga
